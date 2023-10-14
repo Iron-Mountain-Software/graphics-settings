@@ -1,5 +1,5 @@
 {
-  "name": "com.spellboundar.graphics-settings",
+  "name": "com.iron-mountain.graphics-settings",
   "version": "1.0.0",
   "displayName": "Graphics Settings",
   "description": "Standard tools for managing graphics and quality settings.",
@@ -12,11 +12,11 @@
   "type": "tool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpellBoundAR-Packages/graphics-settings.git"
+    "url": "git+https://github.com/Iron-Mountain-Software/graphics-settings.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SpellBoundAR-Packages/graphics-settings/issues"
+    "url": "https://github.com/Iron-Mountain-Software/graphics-settings/issues"
   },
-  "homepage": "https://github.com/SpellBoundAR-Packages/graphics-settings#readme"
+  "homepage": "https://github.com/Iron-Mountain-Software/graphics-settings#readme"
 }
