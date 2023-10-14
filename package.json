@@ -8,15 +8,15 @@
     "vfx",
     "ui"
   ],
-  "author": "Chris Monteferrante <chris@spellboundar.com>",
+  "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
   "type": "tool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpellBoundAR-Packages/grass.git"
+    "url": "git+https://github.com/SpellBoundAR-Packages/graphics-settings.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SpellBoundAR-Packages/grass/issues"
+    "url": "https://github.com/SpellBoundAR-Packages/graphics-settings/issues"
   },
-  "homepage": "https://github.com/SpellBoundAR-Packages/grass#readme"
+  "homepage": "https://github.com/SpellBoundAR-Packages/graphics-settings#readme"
 }
