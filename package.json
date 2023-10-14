@@ -1,0 +1,22 @@
+{
+  "name": "com.spellboundar.graphics-settings",
+  "version": "1.0.0",
+  "displayName": "Graphics Settings",
+  "description": "Standard tools for managing graphics and quality settings.",
+  "unity": "2019.1",
+  "keywords": [
+    "vfx",
+    "ui"
+  ],
+  "author": "Chris Monteferrante <chris@spellboundar.com>",
+  "type": "tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpellBoundAR-Packages/grass.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpellBoundAR-Packages/grass/issues"
+  },
+  "homepage": "https://github.com/SpellBoundAR-Packages/grass#readme"
+}
