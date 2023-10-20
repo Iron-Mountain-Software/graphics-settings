@@ -1,22 +1,44 @@
 {
   "name": "com.iron-mountain.graphics-settings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Graphics Settings",
-  "description": "Standard tools for managing graphics and quality settings.",
-  "unity": "2019.1",
-  "keywords": [
-    "vfx",
-    "ui"
-  ],
   "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
+  "unity": "2019.1",
   "type": "tool",
+  "license": "MIT",
+  "homepage": "https://github.com/Iron-Mountain-Software/graphics-settings#readme",
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/Iron-Mountain-Software/graphics-settings/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Iron-Mountain-Software/graphics-settings.git"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Iron-Mountain-Software/graphics-settings/issues"
-  },
-  "homepage": "https://github.com/Iron-Mountain-Software/graphics-settings#readme"
+  "description": "Standard tools for managing graphics and quality settings.",
+  "useCases": [
+    "Set screen resolution and fullscreen status",
+    "Monitor framerate through a UI text element",
+    "Set target framerate."
+  ],
+  "directions": null,
+  "keywords": [
+    "ui",
+    "graphics"
+  ],
+  "sources": [
+    {
+      "type": "git",
+      "url": "https://github.com/Iron-Mountain-Software/graphics-settings"
+    },
+    {
+      "type": "npm",
+      "url": "https://www.npmjs.com/package/com.iron-mountain.graphics-settings"
+    },
+    {
+      "type": "itch.io",
+      "url": "https://iron-mountain.itch.io/graphics-settings"
+    }
+  ],
+  "dependencies": {}
 }
